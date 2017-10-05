@@ -4,6 +4,7 @@ modal-id: 2
 date: 2014-07-18
 img: EmotionDetection.png
 alt: image-alt
+project-date: September 2017
 project: Facial Emotion Recognition To Unlock Application (Smile To Unlock)
 category: Data Mining
 description: The aim is to design an intelligent system which detects the person we ask it to look for and detects her/his emotion!  Technologies: Artificial Intelligence, OpenCV, Python, Anaconda
