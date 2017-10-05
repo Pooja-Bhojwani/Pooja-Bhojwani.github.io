@@ -2,11 +2,11 @@
 layout: default
 modal-id: 2
 date: 2014-07-18
-img: LargeScaleMBA.png
+img: EmotionDetection.png
 alt: image-alt
-project-date: September 2017
-project: Lighthouse-Labs
-category: Web Development
-description: A web app that allows players to play various card games against other players. Built with Node, express, jQuery and PostgreSQL <a href="https://github.com/EmanuelN/cardgamesmidterm"><br>GitHub Link</a>.
+project: Facial Emotion Recognition To Unlock Application (Smile To Unlock)
+category: Data Mining
+description: The aim is to design an intelligent system which detects the person we ask it to look for and detects her/his emotion!  Technologies: Artificial Intelligence, OpenCV, Python, Anaconda
+ <a href="https://github.com/Pooja-Bhojwani/Smile_to_unlock"><br>GitHub Link</a>.
 
 ---
