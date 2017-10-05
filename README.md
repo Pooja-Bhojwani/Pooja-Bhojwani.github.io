@@ -1,4 +1,4 @@
-# https://avleen30.github.io/
+# https://pooja-bhojwani.github.io/
 
 ## Screenshot
-![screenshot](https://github.com/avleen30/avleen30.github.io/blob/master/Screenshot.png?raw=true)
+![screenshot](https://github.com/pooja-bhojwani/pooja-bhojwani.github.io/blob/master/test.png?raw=true)
