@@ -7,6 +7,7 @@ alt: image-alt
 project-date: September 2017
 project: Lighthouse-Labs
 category: Web Development
-description: An e-commerce Rails app built for learning Rails through example <a href="https://github.com/avleen30/jungle-rails"><br>GitHub Link</a>.
+description: Technologies- Artificial Intelligence, OpenCV, Python, Anaconda
+ <a href="https://github.com/Pooja-Bhojwani/Smile_to_unlock"><br>GitHub Link</a>.
 
 ---
