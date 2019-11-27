@@ -5,8 +5,8 @@ date: 2014-07-17
 img: MoodBasedApp.png
 alt: image-alt
 project-date: September 2017
-project: Lighthouse-Labs
-category: Web Development
-description: An e-commerce Rails app built for learning Rails through example <a href="https://github.com/avleen30/jungle-rails"><br>GitHub Link</a>.
+project: Mood Based App
+category: Data Science
+description: Mood based application, classify songs based on the emotions <a href="https://www.youtube.com/watch?v=OEpde5OcDqc&t=107s"><br>Youtube Link</a>.
 
 ---
