@@ -5,8 +5,8 @@ date: 2014-07-16
 img: LinkedDeed.png
 alt: image-alt
 project-date: September 2017
-project: Lighthouse-Labs
-category: Web Development
+project: Linkded-EED
+category: Data Science
 description: job recommender system, which takes the skills from LinkedIn and jobs from Indeed and finds right job for you.<a href="https://github.com/Pooja-Bhojwani/linked-eed"><br>GitHub Link</a>.
 
 ---
