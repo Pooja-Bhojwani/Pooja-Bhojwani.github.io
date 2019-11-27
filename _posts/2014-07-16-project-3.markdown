@@ -7,6 +7,6 @@ alt: image-alt
 project-date: September 2017
 project: Lighthouse-Labs
 category: Web Development
-description: Tweeter is a simple, single-page Twitter clone that uses HTML, CSS, JS, jQuery and AJAX  for the front-end , and Node, Express and MongoDB for back-end.<a href="https://github.com/avleen30/tweetr"><br>GitHub Link</a>.
+description: job recommender system, which takes the skills from LinkedIn and jobs from Indeed and finds right job for you.<a href="https://github.com/Pooja-Bhojwani/linked-eed"><br>GitHub Link</a>.
 
 ---
