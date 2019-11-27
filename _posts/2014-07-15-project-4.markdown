@@ -6,7 +6,7 @@ img: LargeScaleMBA.png
 alt: image-alt
 project-date: September 2017
 project: Lighthouse-Labs
-category: Web Development
+category: Data Science
 description: Association analysis for Market Basket Data <a href="https://github.com/Pooja-Bhojwani/Market-Basket-Analysis"><br>GitHub Link</a>.
 
 ---
