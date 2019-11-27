@@ -2,7 +2,7 @@
 title: Data Scientist
 email: poojabhojwani10@gmail.com
 url: https://pooja-bhojwani.github.io/
-description: "Full-stack Web Developer based out of Toronto, Canada"
+description: "Data Scientist based out of Toronto, Canada"
 keywords: "Web Developer, Web, Canada, Toronto, Full-stack, Javascript, Ruby, Rails"
 skills: "Data Scientist"
 meta_author: Bhojwani Pooja
@@ -48,7 +48,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Victoria, BC , Canada
+  - line: Toronto, ON , Canada
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
